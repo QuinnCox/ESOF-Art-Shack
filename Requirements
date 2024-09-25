@@ -1,0 +1,56 @@
+Functional Requirements:
+  Seller:
+    Sellers should be able to accept payment ****
+    Sellers should be able to create an account
+    Sellers should be able to list type of art and name of piece
+    Sellers should be able to add/remove art piece entries
+    Sellers should be able to edit information about art pieces
+    Sellers should be able to contact or respond to buyers
+    Sellers should be able to block contact with other users
+    Sellers should be able to have a profile with all necessary information
+    Sellers should be able to start a conversation for each sale
+    Sellers should be able to set a starting bid 
+    Sellers should be able to access necessary information for the bidding 
+    Sellers should be able to 
+  Buyer:  
+    Buyers should be able to bid on artwork
+    Buyers should be able to create an account
+    Buyers should be able to sort based on type of art and name of piece
+    Buyers should be able to block contact with other users
+    Buyers should be able to auto bid for max ammount (Like ebay)
+    Buyers should be able to drop out of bidding
+    Buyers should be able to buy now 
+    Buyers should be able to display art that was purchased
+    Buyers should be able to 
+  Internet Users:
+    User should be able to view the contents of the website without an account
+    User should be able to create an accout to be a buyer
+    User should be able to
+  System Owner - Jennifer:
+    Owner should be able to have super user status
+    Owner should be able 
+  System Maintainer: 
+    Maintainer should be able to approve seller accounts
+    Maintainer should be able to have super user status
+    Maintainer should be able to set a min bid (Automatic)
+    Maintainer should be able to approve art bids
+    Maintainer should be able to 
+
+  Development Team: 
+    Development Team should be ale to
+  Marketing/Art Specialist:
+    Specialist should be ale to
+
+Non-Functional Requirements:
+  Cost
+  Schedule/Deadline - 3 Months
+  Hardware
+  Network
+  Software
+  Hosting Maintenance - AWS Lightsail
+  Legal/Regulatory
+  Accessibility
+  Dependability/Availability
+  Performance - Page load time (2 sec)
+  Disaster Recovery
+  Must be a work of art for Jennifer
