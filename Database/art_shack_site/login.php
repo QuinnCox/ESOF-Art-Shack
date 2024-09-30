@@ -1,6 +1,7 @@
 <?php
 // Start the session
 session_start();
+require "db_conn.php";
 
 // Check if the form is submitted
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
@@ -33,53 +34,9 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="art_shack_stylesheet.css">
     <title>Login Page</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f4f4f4;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-        }
-        .login-container {
-            background-color: #fff;
-            padding: 20px;
-            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
-            border-radius: 8px;
-        }
-        .login-container h2 {
-            text-align: center;
-        }
-        .input-field {
-            margin-bottom: 15px;
-        }
-        .input-field label {
-            display: block;
-        }
-        .input-field input {
-            width: 100%;
-            padding: 8px;
-            margin-top: 5px;
-        }
-        .login-btn {
-            width: 100%;
-            padding: 10px;
-            background-color: #4CAF50;
-            color: #fff;
-            border: none;
-            border-radius: 5px;
-            cursor: pointer;
-        }
-        .login-btn:hover {
-            background-color: #45a049;
-        }
-        .error {
-            color: red;
-            text-align: center;
-        }
-    </style>
+
 </head>
 <body>
     <div class="login-container">
