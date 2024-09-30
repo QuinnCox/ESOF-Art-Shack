@@ -1,2 +1,2 @@
 import 'art_shack_db.sql' into phpmyadmin
-place 'art_shack_site' folder into 'www' folder
+clone repo to  'www' folder in wamp64
