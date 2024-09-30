@@ -11,7 +11,6 @@ Functional Requirements:
     Sellers should be able to start a conversation for each sale
     Sellers should be able to set a starting bid 
     Sellers should be able to access necessary information for the bidding 
-    Sellers should be able to 
   Buyer:  
     Buyers should be able to bid on artwork
     Buyers should be able to create an account
@@ -21,25 +20,32 @@ Functional Requirements:
     Buyers should be able to drop out of bidding
     Buyers should be able to buy now 
     Buyers should be able to display art that was purchased
-    Buyers should be able to 
   Internet Users:
     User should be able to view the contents of the website without an account
     User should be able to create an accout to be a buyer
-    User should be able to
   System Owner - Jennifer:
     Owner should be able to have super user status
-    Owner should be able 
+    Owner should be able to view user history (both seller and buyer)
+    Owner should be able to view chat history (both seller and buyer)
+    Owner should be able to ban members
+    Owner should be able to remove listings from public view
+    Owner should be able to view analytics of the site
   System Maintainer: 
     Maintainer should be able to approve seller accounts
     Maintainer should be able to have super user status
     Maintainer should be able to set a min bid (Automatic)
     Maintainer should be able to approve art bids
-    Maintainer should be able to 
-
+    Maintainer should be able to view user history (both seller and buyer)
+    Maintainer should be able to view chat history (both seller and buyer)
+    Maintainer should be able to ban members
+    Maintainer should be able to remove listings from public view
+    Maintainer should be able to view analytics of the site
   Development Team: 
-    Development Team should be ale to
+    Development Team should be able to view analytics of the site
+    Same as above
   Marketing/Art Specialist:
-    Specialist should be ale to
+    Specialist should be able to view analytics of the site
+    Same as above
 
 Non-Functional Requirements:
   Cost
