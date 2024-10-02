@@ -16,5 +16,3 @@ Do Last: - All
   Review all system models and compare them to your requirements document, Is everything in synch? Revise the documents as necessary, and track the revisions
   Each team member should write his own description and an evaluation of the tools used for the modeling activities
 
-
-61298615e25330ddc31b367ad298f57fe3969e42
