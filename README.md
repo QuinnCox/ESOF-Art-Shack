@@ -5,9 +5,9 @@ Team Members
 
 To Do List:
   Update Revisions - All
-  Write 3 user stories for each user type (Buyer, Seller, Admin, Guest)
+  Write 3 user stories for each user type (Buyer, Seller, Admin, Guest) - Avery
   Create a Relational Database Design, Look for any missing requirements
-  Draw screen sketches, Test them against user stories - Dylam, 
+  Draw screen sketches, Test them against user stories - Dylan
   Draw storyboard (site navigation) and test with user stories - Quinn, Avery
   Draw architectural diagram(s) of the site, This is a three-tier web architecture and a client-server architecture, Indicate the technology that will be used in each part of your model, Evaluate your model against AWS Lightsail specs and check against your non-functional requirements
   Research similar websites, Evaluate at least one auction site and two art gallery sites, Are you missing any functionality? Does The Art Shack design do anything these sites do not do? - 
