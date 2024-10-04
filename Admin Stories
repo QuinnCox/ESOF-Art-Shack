@@ -1,0 +1,24 @@
+Admin Story 1
+-The homepage as an admin has 4 sub categories, Search Bar, Featured Art, Seller Profile, and User Profile.
+-Within the admin “seller profile” there is everyone’s art and admin exclusive commands.
+-The admin wants to check on a verification request for a finished auction
+-The admin finds the piece in the seller profile and analyzes it for TOS breaks
+-The admin finds no issues and confirms the sale
+-The admin closes the window
+
+
+Admin Story 2
+-The homepage as an admin has 4 sub categories, Search Bar, Featured Art, Seller Profile, and User Profile.
+-Within the admin “seller profile” there is everyone’s art and admin exclusive commands.
+-The admin wants to  ban an AI art they found
+-The admin clicks on the seller profile and scrolls to their specific piece and clicks on it
+-The admin deletes the art and sends a warning notice to the account
+-The admin closes the window
+
+
+Admin Story 3
+-The homepage as an admin has 4 sub categories, Search Bar, Featured Art, Seller Profile, and User Profile.
+-Within the admin “seller profile” there is everyone’s art and admin exclusive commands.
+-The admin wants to buy  a piece of art
+-The admin searches for the art and bids 
+-The admin wins the art and the confirmation is sent to a separate admin’s account
