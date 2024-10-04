@@ -20,6 +20,7 @@ Functional Requirements:
     Buyers should be able to drop out of bidding
     Buyers should be able to buy now 
     Buyers should be able to display art that was purchased
+    Buyers should be able to use a "Mr. Beast" button to buy all the art
   Internet Users:
     User should be able to view the contents of the website without an account
     User should be able to create an accout to be a buyer
