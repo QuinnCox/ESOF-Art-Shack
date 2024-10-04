@@ -1,0 +1,23 @@
+Seller Story 1
+-The homepage as a seller has 4 sub categories, Search Bar, Featured Art, Seller Profile, and User Profile.
+-The user wants to check on the status of their piece
+-The user clicks on the seller profile and scrolls to their specific piece and clicks on it
+-The user the user scrolls down and views the current highest bid
+-The user closes the window
+
+
+Seller Story 2
+-The homepage as a seller has 4 sub categories, Search Bar, Featured Art, Seller Profile, and User Profile.
+-The user wants to check on a finished auction
+-The user clicks on the seller profile and scrolls to their specific piece and clicks on it
+-The user the user scrolls down and views the final sale
+-The user confirms the auction and submits it to verification.
+-The user closes the window
+
+
+Seller Story 3
+-The homepage as a seller has 4 sub categories, Search Bar, Featured Art, Seller Profile, and User Profile.
+-The user wants to delete one of their auctions
+-The user clicks on the seller profile and scrolls to their specific piece and clicks on it
+-The user presses a menu button and clicks unlist art
+-The user closes the window
