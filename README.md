@@ -17,3 +17,4 @@ Do Last: - All
   Each team member should write his own description and an evaluation of the tools used for the modeling activities
 
 
+![image](https://github.com/user-attachments/assets/a60945de-b3aa-414d-96dc-3351a93f1cda)
