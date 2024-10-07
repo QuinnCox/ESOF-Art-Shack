@@ -1,0 +1,30 @@
+Buyer Story 1
+-The user arrives at the homepage.
+-The user logs in 
+-The homepage as a buyer has 3 sub categories, Search Bar, Featured Art, and User Profile.
+-The user scrolls through the featured art.
+-Not seeing the specific style the user is looking for the user makes use of the search bar
+-The search bar allows the user through thorough filtering systems to find the art the user was looking for.
+-The user clicks on the art and bids the wanted increment size.
+-The user clicks on their User Profile and waits in the watchlist until the auction ends
+-The user won and is then prompted to enter the Buy page and checks out
+
+
+Buyer Story 2
+-The user (Mr.Beast) arrives at the homepage.
+-The user signs up and then logs in.
+-The homepage as a buyer  has 3 sub categories, Search Bar, Featured Art, and User Profile.
+-The users goal is to buy all the art on the page
+-The user wonders if there's a buy all option or a proverbial “Mr.Beast Button”
+-The user scans for a Mr.Beast button
+-Not able to find the Mr.Beast Button the user leaves
+
+
+Buyer Story 3
+-The user arrives at the homepage already logged in.
+-The homepage as a buyer  has 3 sub categories, Search Bar, Featured Art, and User Profile.
+-The user wants to find their favorite artist
+-The user can use the search bar to do this.
+-The user finds the page and scrolls through the creators art
+-The user finds an art piece they like and bids double the current bid
+-The user leaves the page
