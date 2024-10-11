@@ -1,6 +1,7 @@
 Team Members
-  Team Leader: Quinn Cox
-  Servants: Conor Miller, Dylan Williams, Avrey Coombe
+  Team Leaders: Conor Miller,  Avrey Coombe
+  Servant: Dylan Williams
+  Fallen Leader:  Quinn Cox (Not Mr.Beast)
 
 
 To Do List:
