@@ -1,3 +1,8 @@
+# Test Objectives
+The system integration test of the Art Shack System should validate from both the requirements perspective and the       
+business perspective that:
+
+
 # Order of Testing 
 The order of testing will be driven primarily by the build order. Within each build, the following order of testing will be followed: 
 # Build 1 
