@@ -1,4 +1,4 @@
-Order of Testing 
+# Order of Testing 
 The order of testing will be driven primarily by the build order. Within each build, the following order of testing will be followed: 
 # Build 1 
 1. Art listings
