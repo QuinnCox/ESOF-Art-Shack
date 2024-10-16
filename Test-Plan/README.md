@@ -1,11 +1,17 @@
 # Test Objectives
-The system integration test of the Art Shack System should validate from both the requirements perspective and the       
-business perspective that:
- - Users can view the website and view past/active auctions
- - Users can add payment/shipping information to become Buyers
- - Users can apply to become Sellers
+The system integration test of the Art Shack System, should validate from both the requirements perspective and the       
+business perspective, certain properties for each user type:
+### Users
+ - <b>Users</b> can view the website and view past/active auctions
+ - <b>Users</b> can add payment/shipping information to become <b>Buyers</b>
+ - <b>Users</b> can apply to become <b>Sellers</b>
  - 
-
+### Buyers
+### Sellers
+### Super Users
+### Marketing Specialist
+### Owners
+### Development Team
 
 # Order of Testing 
 The order of testing will be driven primarily by the build order. Within each build, the following order of testing will be followed: 
