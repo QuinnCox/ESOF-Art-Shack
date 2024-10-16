@@ -2,10 +2,11 @@
 The system integration test of the Art Shack System, should validate from both the requirements perspective and the       
 business perspective, certain properties for each user type:
 ### Users
- - <b>Users</b> can view the website and view past/active auctions
- - <b>Users</b> can create an account, then add payment/shipping information to become <b>Buyers</b>
+ - <b>Users</b> can view the website and view past/active auctions without an account
+ - <b>Users</b> can create an account
+ - <b>Users</b> can add payment/shipping information to become <b>Buyers</b>
  - <b>Users</b> can apply to become <b>Sellers</b>
- - 
+
 ### Buyers
 ### Sellers
 ### Super Users
