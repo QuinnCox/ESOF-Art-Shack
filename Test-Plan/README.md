@@ -8,6 +8,9 @@ business perspective, certain properties for each user type:
  - <b>Users</b> can apply to become <b>Sellers</b>
 
 ### Buyers
+ - <b>Buyers</b> can bid on pieces of art up for auction
+ - <b>Buyers</b> can buy now on pieces of art with buy now enabled
+   
 ### Sellers
 ### Super Users
 ### Marketing Specialist
