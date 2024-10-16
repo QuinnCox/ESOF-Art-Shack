@@ -31,7 +31,7 @@ The order of testing will be driven primarily by the build order. Within each bu
 5. System Performance
    
 ## Build 3 
-1. Admin Controls 
+1. Super Users Controls 
 2. Should be able to edit art auctions review reports and ban users
 3. System Ease of Use 
 4. System Performance 
@@ -47,6 +47,6 @@ faulty info payments not processing and artists pulling from the site.
 Risk level moderate to high should issues occur there could be multiple issues such as
 inability to inteact with sight and feelings of uneasiness towards making purchases
 
-## Admin
+## Super User
 Risk level high should issues occur the sight could run unmoderated leading to many sales
 going uncomfirmed and the site being used for things it is not meant for.
