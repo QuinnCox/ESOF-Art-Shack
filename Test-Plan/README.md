@@ -2,7 +2,7 @@
 The system integration test of the Art Shack System should validate from both the requirements perspective and the       
 business perspective that:
  - Users can view the website and view past/active auctions
- - Users can add payment information to become Buyers
+ - Users can add payment/shipping information to become Buyers
  - Users can apply to become Sellers
  - 
 
