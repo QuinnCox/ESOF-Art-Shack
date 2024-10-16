@@ -13,6 +13,6 @@ To Do List:<br>
   Research similar websites, Evaluate at least one auction site and two art gallery sites, Are you missing any functionality? Does The Art Shack design do anything these sites do not do? <br>
 
 Do Last: - All<br>
-  Review all system models and compare them to your requirements document, Is everything in synch? Revise the documents as necessary, and track the revisions<br>
+  Review all system models and compare them to your requirements document, Is everything in sync? Revise the documents as necessary, and track the revisions<br>
   Each team member should write his own description and an evaluation of the tools used for the modeling activities<br>
 
